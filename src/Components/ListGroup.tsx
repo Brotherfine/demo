@@ -16,6 +16,7 @@ const Form = () => {
         <input id="age" type="number" className="form-control" />
       </div>
       <button className="btn btn-primary ">yeahg</button>
+      <button className="btn btn-danger btn-sm">Delete</button>
     </form>
   );
 };
